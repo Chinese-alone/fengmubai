@@ -1,0 +1,45 @@
+﻿title: 枫木白的博客
+email: 576422286@qq.com
+description: > # this means to ignore newlines until "baseurl:"
+  该页面是Fengmubai(枫木白)的个人博客。博主为西安在校大一学生，目前还在学习当中。这个博客会记录一些自己的学习日志以及生活经历。
+permalink: ':title/'
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://github.com/Chinese-alone/fengmubai.git" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Author settings
+author: Fengmubai # add your name
+author-pic: adam-face.jpg
+about-author: 博主Fengmubai(枫木白)为西安在校大一学生，性别男，目前还在学习当中。对很多事情都有一点感兴趣，日常怼xindu。
+# Contact links
+email: # Add your Email address
+phone: # Add your Phone number
+website: # Add your website, do not add http://
+linkedin: # Add your Linkedin handle
+github: Chinese-alone # Add your Github handle
+twitter: # Add your Twitter handle
+facebook: # Add your Facebook handle
+instagram: # Add your Instagram handle
+pinterest: # Add your Pinterest handle
+
+# Newsletter
+mailchimp: # Add your MailChimp form identifier.
+
+# Disqus
+discus_identifier: mr-brown # Add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Paginate
+paginate: 6
+paginate_path: /page:num/
+
+# Build settings
+markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
+
+include: [_pages]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
