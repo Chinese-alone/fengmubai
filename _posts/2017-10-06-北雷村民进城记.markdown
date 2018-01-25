@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title:  北雷村民进城记
 date:   2017-10-06 21:32:20 +0800
@@ -7,4 +7,4 @@ img: post-1.jpg # Add image post (optional)
 tags: [Blog, Travel]
 author: Xindu # Add name author (optional)
 ---
-今天我和狗舍友乘坐916路公交车进了城。(先挖个坑，内容以后再写好了
+今天我和狗舍友乘坐916路公交车进了城。
