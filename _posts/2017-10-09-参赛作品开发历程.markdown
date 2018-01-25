@@ -1,5 +1,5 @@
 ﻿---
-layout: post
+layout: post2
 title:  我的星火杯参赛作品开发历程
 date:   2017-10-9 12:55:20 +0800
 description: 我的星火杯参赛作品开发历程 # Add post description (optional)

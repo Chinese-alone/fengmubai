@@ -1,5 +1,5 @@
 ﻿---
-layout: pagination
+layout: post-3
 title:爱而不得，忘而不能
 date:2018-1-25 16:18:00 +0800
 description: 胥，希望你快乐 # Add post description (optional)
