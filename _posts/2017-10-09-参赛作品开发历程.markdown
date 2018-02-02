@@ -1,11 +1,11 @@
 ﻿---
 layout: post
-title:  我的星火杯参赛作品开发历程
-date:   2017-10-9 12:55:20 +0800
+title: 我的星火杯参赛作品开发历程
+date: 2017-10-9 12:55:20 +0800
 description: 我的星火杯参赛作品开发历程 # Add post description (optional)
 img: post-2.jpg # Add image post (optional)
 tags: [Blog, Projects]
-author:Xindu&Fengmubai # Add name author (optional)
+author: Xindu&Fengmubai # Add name author (optional)
 ---
 9月下旬 买来了Arduino uno，在Mac上搭建好了开发环境并测试了点亮led。
 
