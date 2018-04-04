@@ -7,7 +7,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://github.com/Chinese-alone/fengmubai.git" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
-author: Fengmubai # add your name
+author: 202 # add your name
 author-pic: adam-face.jpg
 about-author: 202班全体成员
 # Contact links
