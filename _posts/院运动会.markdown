@@ -2,10 +2,10 @@
 layout: post
 title:  院运动会剪影
 date:   2018-03-28 8:30:20 +0800
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description:  # Add post description (optional)
 img: xd1.jpg # Add image post (optional)
 tags: [Blog]
 author: 枫木白 # Add name author (optional)
 ---
 2018年3月28号，我们班参加了大学里第一次院运动会。
-![照片1]({{site.baseurl}}/assets/img/caochang.jpg)
+![照片1](/assets/img/caochang.jpg)
