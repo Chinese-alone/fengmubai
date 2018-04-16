@@ -1,10 +1,10 @@
 ﻿---
 layout: post
-title: 有人欺负我
+title: 1713012支部
 img: post3.jpg # Add image post (optional)
-date: 2018-2-7 23:02:00 +0800
+date: 2018-4-15 23:02:00 +0800
 description:  # Add post description (optional)
-tag: [person,daily]
+tag: [report]
 ---
 <h2>个人基本信息</h2>
 <p>地区  西安市</p>
