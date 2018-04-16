@@ -1,11 +1,10 @@
 ﻿---
 layout: post
 title: 活力团支部
-date: 2018-03-28 8:30:20 +0800
-description:  # Add post description (optional)
+date: 2018-4-15 8:30:20 +0800
+description: 123 # Add post description (optional)
 img: post1.png # Add image post (optional)
 tags: [Report]
-author: 枫木白 # Add name author (optional)
 ---
 
 <h2>个人基本信息</h2>
