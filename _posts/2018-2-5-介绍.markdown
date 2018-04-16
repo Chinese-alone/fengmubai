@@ -4,7 +4,7 @@ title: 1713012支部
 img: post1.png # Add image post (optional)
 date: 2018-4-15 11:12:00 +0800
 description:  # Add post description (optional)
-tag: [person,introduction]
+tag: [report]
 ---
 <h2>个人基本信息</h2>
 <p>地区  西安市</p>
