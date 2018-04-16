@@ -1,0 +1,14 @@
+﻿---
+layout: post
+title: 有人欺负我
+img: post3.jpg # Add image post (optional)
+date: 2018-2-7 23:02:00 +0800
+description:  # Add post description (optional)
+tag: [person,daily]
+---
+如下图…………
+
+![原图]({{site.baseurl}}/assets/img/2018.2.7.jpg)
+
+
+
