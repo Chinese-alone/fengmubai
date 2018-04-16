@@ -1,16 +1,15 @@
 ﻿---
 layout: post
-title: 活力团支部
-date: 2018-4-15 8:30:20 +0800
-description: 123 # Add post description (optional)
+title: 1713012支部
 img: post1.png # Add image post (optional)
-tags: [Report]
+date: 2018-4-15 11:12:00 +0800
+description:  # Add post description (optional)
+tag: [person,introduction]
 ---
-
 <h2>个人基本信息</h2>
 <p>地区  西安市</p>
 <p>学校  西安电子科技大学</p>
-<h2>团支部名称
+<h2>团支部名称</h2>
  <p>西安电子科技大学软件学院软件工程专业2017级1713012团支部</p>
 <h2>团支部书记姓名</h2>
      <p>于冰倩</p>
